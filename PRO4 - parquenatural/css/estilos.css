@@ -29,6 +29,7 @@ li {
     padding: 5px 15px;
     text-align: center;
     background-color: rgb(54, 180, 54);
+    background-image: linear-gradient(white, #A6D236);
 }
 
 a {
@@ -64,7 +65,7 @@ span {
 }
 
 .marcado {
-    background-color: brown;
+    background-image: linear-gradient(white, #D3BA9E);
 }
 
 footer {
