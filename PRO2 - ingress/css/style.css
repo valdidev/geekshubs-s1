@@ -1,0 +1,15 @@
+body {
+    background-color: #ccc;
+    font-family: Verdana;
+}
+
+h1 {
+    color: goldenrod;
+    text-shadow: 2px 2px 0px chocolate;
+}
+
+p {
+    font-size: 16px;
+    color: goldenrod;
+    background-color: darkgreen;
+}
